@@ -4,3 +4,4 @@ torchaudio
 
 urllib3
 pandas
+matplotlib
