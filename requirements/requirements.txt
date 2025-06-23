@@ -1,9 +1,9 @@
 torch
 torchvision
 torchaudio
-torchtext
 spacy
 
 urllib3
 pandas
 matplotlib
+scikit-learn
