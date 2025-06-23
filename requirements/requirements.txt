@@ -1,6 +1,7 @@
 torch
 torchvision
 torchaudio
+torchtext
 
 urllib3
 pandas
