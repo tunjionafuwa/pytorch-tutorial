@@ -3,6 +3,7 @@ torchvision
 torchaudio
 spacy
 sox # allows torchaudio to load wav files
+librosa
 
 urllib3
 pandas
