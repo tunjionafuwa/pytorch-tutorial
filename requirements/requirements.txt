@@ -2,6 +2,7 @@ torch
 torchvision
 torchaudio
 spacy
+sox # allows torchaudio to load wav files
 
 urllib3
 pandas
