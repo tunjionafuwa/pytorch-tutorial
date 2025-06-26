@@ -1,6 +1,7 @@
 torch
 torchvision
 torchaudio
+tensorboard
 spacy
 sox # allows torchaudio to load wav files
 librosa
